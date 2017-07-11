@@ -17,17 +17,18 @@ html {
 }
 #content
 {
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Baloo Bhaina', cursive;
     padding-top: 250px;
     font-size: 50px;
-    color: #68e20e;
+    color: #f5532c;
+    text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
     font-weight: blod;
     text-align: center;
 
 }
 #comming
 {
-    font-family: 'Lemonada', cursive;
+    font-family: 'Baloo Bhaina', cursive;
     background-position: center center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -39,6 +40,14 @@ html {
     color: white;
     font-weight: blod;
     text-align: center;
+}
+#follow
+{
+    color:#e5db82;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
+    font-family: 'Baloo Bhaina', cursive;
 }
 
 /*
