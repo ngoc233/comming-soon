@@ -17,13 +17,22 @@ html {
 }
 #content
 {
+    font-family: 'Lemonada', cursive;
+    padding-top: 250px;
     font-size: 50px;
     color: #68e20e;
     font-weight: blod;
     text-align: center;
-    margin-top: 17%;
     font-family: 'Roboto', sans-serif;
 
+}
+#comming
+{
+    font-family: 'Lemonada', cursive;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 750px;
 }
 #demo
 {
@@ -32,13 +41,7 @@ html {
     font-weight: blod;
     text-align: center;
 }
-body
-{   
-    font-family: 'Lemonada', cursive;
-    /*font-family: 'Oswald', sans-serif;*/
-    background-repeat: no-repeat;   
-    background-size: cover;
-}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
