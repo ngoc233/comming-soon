@@ -20,7 +20,7 @@ html {
     font-family: 'Baloo Bhaina', cursive;
     padding-top: 250px;
     font-size: 50px;
-    color: #f5532c;
+    color: rgba(37, 230, 4, 0.51);
     text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
     font-weight: blod;
     text-align: center;
@@ -40,6 +40,7 @@ html {
     color: white;
     font-weight: blod;
     text-align: center;
+    font-family: 'Kdam Thmor', cursive;
 }
 #follow
 {
